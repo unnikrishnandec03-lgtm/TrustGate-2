@@ -1,0 +1,6 @@
+{
+  "name": "TrustGate - Autonomous Multimodal AI Fraud Gateway",
+  "description": "Autonomous multimodal forensic AI system specialized in real-time detection, forensic attribution, and quarantine triage for synthetic fraud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
